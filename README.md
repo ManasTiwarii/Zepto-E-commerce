@@ -134,7 +134,3 @@ CREATE TABLE zepto (
 
       - Import the dataset (convert to UTF-8 if necessary)
 
-## 📜 License
-
-MIT — feel free to fork, star, and use in your portfolio.
-
